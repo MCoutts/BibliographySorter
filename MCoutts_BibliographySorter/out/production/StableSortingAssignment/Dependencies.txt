@@ -1,0 +1,4 @@
+Dependencies:
+
+BibSort Library: https://github.com/jbibtex/jbibtex#readme
+
